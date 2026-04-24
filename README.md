@@ -1,1 +1,1 @@
-# 24spell-side-store
+# 24spell-alt-adp-v1
